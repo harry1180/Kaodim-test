@@ -10,3 +10,5 @@ Architecture Question (1/2):
 Solution:
 
 I will try to keep this concise and precise. We can talk on the soution during the technical discussion I believe.
+
+We can maintain a master account that controls and manages it's child accounts via needed cross account policies. 
